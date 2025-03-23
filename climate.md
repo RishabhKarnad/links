@@ -51,3 +51,15 @@
 - [Ocean fertilization](https://en.m.wikipedia.org/wiki/Ocean_fertilization)
 - [Solving climate change by abusing thermodynamic scaling laws](https://ckrapu.github.io/blog/2024/why-dont-we-just-freeze-the-carbon/)
 - [Satellite powered estimation of global solar potential](https://research.google/blog/satellite-powered-estimation-of-global-solar-potential/)
+- [Research team has figured out a way to make cement production carbon neutral—and even carbon negative—by pulling carbon dioxide out of the air with the help of microalgae](https://www.colorado.edu/today/2022/06/23/cities-future-may-be-built-algae-grown-limestone)
+
+### Videos and Podcasts
+
+- [A combined solar and wind system that is much more efficient](https://www.youtube.com/watch?v=1vJuKxAIMuA)
+- [How to produce green steel and eliminate 10% of global CO2 emissions. Fascinating talk from Adam Rauwerdink, from Boston Metal, a company backed by Bill Gates](https://www.youtube.com/watch?v=Hu6laZ5HWL8)
+- [Paleoclimatologist analyses sediments drilled from old lakes and scours archival records to reconstruct past rainfall changes, understand variabilities, to mitigate the effects climate change](https://open.spotify.com/episode/2NvLWfkTpebNWH3Ovu67yi?nd=1)
+- [Solar Panel Efficiency Breakthroughs in 2022](https://www.youtube.com/watch?v=m8crjuL8FFs)
+- [Dismantling dams may help slow climate change](https://www.youtube.com/watch?v=gYgHNqVPtGs)
+- [Fascinating discussion about technologies which could cool the planet featuring world renowned climate scientist Sir David King](https://www.youtube.com/watch?v=C3G052lyHw8)
+- [Inspiring permaculture](https://www.youtube.com/watch?v=gq9sg397ee8)
+- [How Do We Power the Developing World](https://www.pbs.org/video/powering-the-developing-world-sbf5zb/)
