@@ -52,6 +52,7 @@
 - [Solving climate change by abusing thermodynamic scaling laws](https://ckrapu.github.io/blog/2024/why-dont-we-just-freeze-the-carbon/)
 - [Satellite powered estimation of global solar potential](https://research.google/blog/satellite-powered-estimation-of-global-solar-potential/)
 - [Research team has figured out a way to make cement production carbon neutral—and even carbon negative—by pulling carbon dioxide out of the air with the help of microalgae](https://www.colorado.edu/today/2022/06/23/cities-future-may-be-built-algae-grown-limestone)
+- [Project Aardvark: Reimagining AI weather prediction](https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction)
 
 ### Videos and Podcasts
 
