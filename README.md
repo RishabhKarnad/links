@@ -6,4 +6,4 @@ A repository of links (and text of interesting comments on the internet) sorted 
 - [Climate](./climate.md)
 - [Science](./science.md)
 - [News and Politics](./news-pol.md)
-- [ADHD](./ADHD.md)
+- [ADHD](./adhd.md)
