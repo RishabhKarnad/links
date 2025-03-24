@@ -53,6 +53,30 @@
 - [Satellite powered estimation of global solar potential](https://research.google/blog/satellite-powered-estimation-of-global-solar-potential/)
 - [Research team has figured out a way to make cement production carbon neutral—and even carbon negative—by pulling carbon dioxide out of the air with the help of microalgae](https://www.colorado.edu/today/2022/06/23/cities-future-may-be-built-algae-grown-limestone)
 - [Project Aardvark: Reimagining AI weather prediction](https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction)
+- [Trudeau pushes ahead on fertilizer reduction as provinces and farmers cry foul](https://torontosun.com/news/national/trudeau-pushes-ahead-on-fertilizer-reduction-as-provinces-and-farmers-cry-foul)
+    - <details>
+      <summary>Reddit comment by u/OneWhoWonders</summary>
+      https://old.reddit.com/r/canada/comments/w5orut/trudeau_pushes_ahead_on_fertilizer_reduction_as/ih9iojg/
+      
+      A bit of a primer on some of the issues with N20 and why policies like this are starting to be looked at are covered in this (well sourced) article here:
+
+      The Greenhouse Gas No One’s Talking About: Nitrous Oxide on Farms, Explained
+      
+      Basically, N20 is a far more potent GHG than C02 (300x more) and also an Ozone depleting chemical. While there are naturally emitting sources of N20, and the human sources of it have increased dramatically, primarily due to the use of synthetic fertilizers.
+      
+      There are many possible solutions to this problem and it is not a one-size fits all type of deal. Some possible solutions are, but not limited to:
+      - Using organic fertilizers, as the nitrogen is able to be absorbed more slowly, but that is likely to be more expensive and likely to result in reduced yields.
+      - If using irrigation methods, using drip irrigation has resulted in reduced N20 emissions as well as reduced water use.
+      - The biggest reduction may be reducing the amount of fertilizer put on fields by developing techniques as to when to put fertilizer on. It appears that a lot of modern farming is based on the over-application of fertilizers (something like 50-60 of the nitrogen put on the field gets picked up, leaving the other 40% or so to be available to be made into N20.
+      
+      It looks like the proposed goal is to reduce N20 emissions by 30% from 2020 levels (so the very recent past), which is likely more obtainable then trying to reduce under a level from 10-20 years ago. It does look like there is a fund that is provided to help farmers work out different systems, and I'm curious to see how this works out. If things can be devised that actually results in less fertilizer being applied, that could turn out as a net benefit for producers, as it reduces that cost.
+    </details>
+- [My experience with Impact Investing](https://old.reddit.com/r/greeninvestor/comments/qc4l4u/my_experience_with_impact_investing/)
+- [What can I, an individual, realistically do to combat climate change?](https://old.reddit.com/r/Environmentalism/comments/t5sv2o/what_can_i_an_individual_realistically_do_to/)
+    - <details>
+      <summary>Reddit comment by u/ILikeNeurons</summary>
+      https://old.reddit.com/r/Environmentalism/comments/t5sv2o/what_can_i_an_individual_realistically_do_to/hz79rg7/
+    </details>
 
 ### Videos and Podcasts
 
