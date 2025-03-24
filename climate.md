@@ -76,6 +76,8 @@
     - <details>
       <summary>Reddit comment by u/ILikeNeurons</summary>
       https://old.reddit.com/r/Environmentalism/comments/t5sv2o/what_can_i_an_individual_realistically_do_to/hz79rg7/
+
+      https://archive.md/CFF59
     </details>
 
 ### Videos and Podcasts
