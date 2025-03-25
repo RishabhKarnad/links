@@ -3,6 +3,7 @@
 ### Resources
 
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
+- [Causal Inference: The Mixtape](https://mixtape.scunning.com/)
 - [Neural Process family](https://yanndubs.github.io/Neural-Process-Family/text/Intro.html)
 - [Bayesian Learning and Neural Networks](https://phuijse.github.io/BLNNbook/README.html)
 - [Bayesian learning papers](http://www2.stat.duke.edu/~berger/papers.html)
