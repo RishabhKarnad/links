@@ -2,6 +2,7 @@
 
 A repository of links (and text of interesting comments on the internet) sorted by topics I'm interested in that I update from time to time
 
+- [Newsletters](./newsletters.md)
 - [Machine Learning](./ML.md)
 - [Climate](./climate.md)
 - [Science](./science.md)
