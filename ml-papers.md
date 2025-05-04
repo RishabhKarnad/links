@@ -2,13 +2,21 @@
 
 \* - essential papers
 
-<!-- ## Bayesian ML
+## Bayesian ML
 
-### Papers on Markov Chain Monte Carlo
+<!-- ### Papers on Markov Chain Monte Carlo -->
 
+### Papers by [Emtiyaz Khan's group](https://team-approx-bayes.github.io/)
 
-
-### Papers by Emtiyaz Khan's group -->
+- [Conjugate-Computation Variational Inference: Converting Variational Inference in Non-Conjugate Models to Inferences in Conjugate Models](https://arxiv.org/abs/1703.04265)
+- [Fast and Scalable Bayesian Deep Learning by Weight-Perturbation in Adam](https://arxiv.org/abs/1806.04854)
+- [Practical Deep Learning with Bayesian Principles](https://arxiv.org/abs/1906.02506)
+- [Handling the Positive-Definite Constraint in the Bayesian Learning Rule](https://arxiv.org/abs/2002.10060)
+- [Training Binary Neural Networks using the Bayesian Learning Rule](https://arxiv.org/abs/2002.10778)
+- [The Bayesian Learning Rule](https://arxiv.org/abs/2107.04562)
+- [The Memory Perturbation Equation: Understanding Model's Sensitivity to Data](https://arxiv.org/abs/2310.19273)
+- [Variational Learning is Effective for Large Deep Networks](https://arxiv.org/abs/2402.17641)*
+- [Model Merging by Uncertainty-Based Gradient Matching](https://arxiv.org/abs/2310.12808)
 
 ## Causal ML
 
