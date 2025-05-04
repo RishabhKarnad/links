@@ -90,7 +90,7 @@ Generative Flow Networks
 - [VBG](https://arxiv.org/abs/2211.02763) - Sampling DAGs with GFlowNets and modeling parameter posteriors using VI
 - [JSP-GFN](https://arxiv.org/abs/2305.19366) - Sampling both DAGs and parameters using a single GFlowNet
 
-The role of priors in identifiability
+The role of priors in structure identification
 
 - [Bivariate Causal Discovery using Bayesian Model Selection](https://arxiv.org/abs/2306.02931)
 - [Continuous Bayesian Model Selection for Multivariate Causal Discovery](https://arxiv.org/abs/2411.10154)
