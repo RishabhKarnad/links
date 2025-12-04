@@ -24,3 +24,4 @@
 - [A review on protein language models](https://www.apoorva-srinivasan.com/plms/)
 - [Hopes for 2023 by AI leaders](https://info.deeplearning.ai/hopes-for-2023-from-yoshua-bengio-been-kim-douwe-kiela-reza-zadeh-alon-halevy)
 - [Cutting the carbon cost of training models](https://info.deeplearning.ai/in-demand-job-titles-new-rules-for-self-driving-cars-how-to-cut-ais-carbon-emissions-learning-from-metadata-1)
+- [Nonlinear computation in deep linear networks](https://openai.com/index/nonlinear-computation-in-deep-linear-networks/)
