@@ -25,3 +25,5 @@
 - [Hopes for 2023 by AI leaders](https://info.deeplearning.ai/hopes-for-2023-from-yoshua-bengio-been-kim-douwe-kiela-reza-zadeh-alon-halevy)
 - [Cutting the carbon cost of training models](https://info.deeplearning.ai/in-demand-job-titles-new-rules-for-self-driving-cars-how-to-cut-ais-carbon-emissions-learning-from-metadata-1)
 - [Nonlinear computation in deep linear networks](https://openai.com/index/nonlinear-computation-in-deep-linear-networks/)
+- [A roadmap for safer and more effective AI in health care](https://news.stanford.edu/stories/2025/10/jama-report-michelle-mello-health-care-ai-oversight)
+- [What parents need to know about AI in the classroom](https://news.stanford.edu/stories/2025/09/expert-guide-tips-ai-schools-classroom)
