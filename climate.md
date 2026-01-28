@@ -79,6 +79,7 @@
 
       https://archive.md/CFF59
     </details>
+- [Highlighting solutions to the wildfire crisis](https://news.stanford.edu/stories/2025/10/wildfire-crisis-threats-prevention-strategies-solutions-research)
 
 ### Videos and Podcasts
 
