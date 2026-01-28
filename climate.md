@@ -14,6 +14,9 @@
 - [CAMS - An open-source project for good. Helping nations, cities, and communities use local knowledge with cutting edge technology to become climate resilient](https://climateresilient.world/)
 - [Project Vesta - A group that is currently working on using olivine and enhanced weathering to put a stop to climate change](https://www.projectvesta.org/)
 - [Clay: AI for Earth](https://madewithclay.org/)
+- [En-ROADS](https://bc3.mit.edu/demos/en-roads/)
+- [REMix](https://helmholtz.software/software/remix)
+- [venco.py](https://helmholtz.software/software/vencopy)
 
 ### Articles
 
