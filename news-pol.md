@@ -29,3 +29,7 @@
         
         This needs to be a wake up call. This is Putin's game plan for the world. MAKE NO MISTAKE, it isn't the Russian citizens who want this. It's the Russian elites, it's Putin & his oligarchs who want this. And they won't stop with Ukraine. It's just one step in their plan.
       </details>
+- [Why sanctions failed to restrain Russia’s oligarchs](https://news.stanford.edu/stories/2026/01/international-sanctions-oligarchs-russia-ukraine-crimea)
+- [Why Wall Street is booming while Main Street is stagnating](https://news.stanford.edu/stories/2025/10/wall-street-main-street-economics-research)
+- [How AI and tariffs are transforming fast fashion](https://news.stanford.edu/stories/2026/01/fast-fashion-us-tariffs-artificial-intelligence)
+
