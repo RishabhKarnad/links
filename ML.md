@@ -27,3 +27,5 @@
 - [Nonlinear computation in deep linear networks](https://openai.com/index/nonlinear-computation-in-deep-linear-networks/)
 - [A roadmap for safer and more effective AI in health care](https://news.stanford.edu/stories/2025/10/jama-report-michelle-mello-health-care-ai-oversight)
 - [What parents need to know about AI in the classroom](https://news.stanford.edu/stories/2025/09/expert-guide-tips-ai-schools-classroom)
+- [Hypernetworks: Neural Networks for Hierarchical Data](https://blog.sturdystatistics.com/posts/hnet_part_I/)
+- [Bayesian Hierarchical Models: Structured Uncertainty for Hierarchical Data](https://blog.sturdystatistics.com/posts/hnet_part_II/index.html)
