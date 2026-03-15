@@ -32,4 +32,5 @@
 - [Why sanctions failed to restrain Russia’s oligarchs](https://news.stanford.edu/stories/2026/01/international-sanctions-oligarchs-russia-ukraine-crimea)
 - [Why Wall Street is booming while Main Street is stagnating](https://news.stanford.edu/stories/2025/10/wall-street-main-street-economics-research)
 - [How AI and tariffs are transforming fast fashion](https://news.stanford.edu/stories/2026/01/fast-fashion-us-tariffs-artificial-intelligence)
+- [AI rivals humans in political persuasion](https://news.stanford.edu/stories/2025/11/ai-generated-political-messages-persuasion-research)
 
