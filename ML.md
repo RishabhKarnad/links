@@ -29,3 +29,4 @@
 - [What parents need to know about AI in the classroom](https://news.stanford.edu/stories/2025/09/expert-guide-tips-ai-schools-classroom)
 - [Hypernetworks: Neural Networks for Hierarchical Data](https://blog.sturdystatistics.com/posts/hnet_part_I/)
 - [Bayesian Hierarchical Models: Structured Uncertainty for Hierarchical Data](https://blog.sturdystatistics.com/posts/hnet_part_II/index.html)
+- [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
