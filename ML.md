@@ -30,3 +30,5 @@
 - [Hypernetworks: Neural Networks for Hierarchical Data](https://blog.sturdystatistics.com/posts/hnet_part_I/)
 - [Bayesian Hierarchical Models: Structured Uncertainty for Hierarchical Data](https://blog.sturdystatistics.com/posts/hnet_part_II/index.html)
 - [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
+- [Why AI still struggles to tell fact from belief](https://news.stanford.edu/stories/2025/11/ai-language-models-facts-belief-human-understanding-research)
+- [Empowering users to discern fact from fiction in the age of AI](https://news.stanford.edu/stories/2026/01/ai-digital-literacy-interventions-misinformation-scams-research)
