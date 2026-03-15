@@ -1,4 +1,4 @@
-## Science
+## Science and Tech
 
 ### Articles
 
@@ -8,3 +8,7 @@
 - [Car allergic to Vanilla ice cream](http://www.cs.cmu.edu/~wkw/humour/carproblems.txt)
 - [Bird pictures (BBC)](https://www.bbc.com/news/in-pictures-66706149)
 - [Engineering Management checklist](http://pnewman.org/engineering_mgmt_checklist.txt)
+- [The enshittification of Amazon paperback books](https://www.alexerhardt.com/en/enshittification-amazon-paperback-books/)
+- [The Optimization Ladder](https://cemrehancavdar.com/2026/03/10/optimization-ladder/)
+- [Hollywood Enters Oscars Weekend in Existential Crisis](https://www.theculturenewspaper.com/hollywood-enters-oscars-weekend-in-existential-crisis/)
+- [sinh(arccosh(x))](https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/)
