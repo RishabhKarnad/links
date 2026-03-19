@@ -14,6 +14,9 @@
   - https://jalammar.github.io/illustrated-transformer/
   - https://iaml-it.github.io/posts/2021-04-28-transformers-in-vision/
   - https://mlvu.github.io/lecture07/
+- Posts by Nvidia
+  - [Mastering LLM Techniques: Training](https://developer.nvidia.com/blog/mastering-llm-techniques-training/)
+  - [Mastering LLM Techniques: Inference Optimization](https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/)
 
 ### Articles
 
