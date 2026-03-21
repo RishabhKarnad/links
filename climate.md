@@ -90,6 +90,7 @@
 - [What corporate carbon reports get wrong – and how to fix it](https://news.stanford.edu/stories/2026/01/corporate-carbon-reports-supply-chain-emissions-research)
 - [Exploring renewable energy solutions with Taiwan and Stanford](https://news.stanford.edu/stories/2025/11/taiwan-net-zero-emissions-sustainable-energy-strategies)
 - [Stanford researchers tackle food insecurity in a warming world](https://news.stanford.edu/stories/2025/11/food-insecurity-climate-change-research)
+- [Synthetic biologists transform waste CO2 into useful chemicals](https://news.stanford.edu/stories/2026/01/artificial-metabolism-waste-co2-chemicals-synthetic-biology-carbon-recycling)
 
 ### Videos and Podcasts
 
