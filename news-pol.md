@@ -33,4 +33,6 @@
 - [Why Wall Street is booming while Main Street is stagnating](https://news.stanford.edu/stories/2025/10/wall-street-main-street-economics-research)
 - [How AI and tariffs are transforming fast fashion](https://news.stanford.edu/stories/2026/01/fast-fashion-us-tariffs-artificial-intelligence)
 - [AI rivals humans in political persuasion](https://news.stanford.edu/stories/2025/11/ai-generated-political-messages-persuasion-research)
+- [Democracy is a Liability](https://geohot.github.io//blog/jekyll/update/2026/03/21/democracy-liability.html)
+- [How natural disasters exacerbate inequity](https://news.stanford.edu/stories/2025/12/natural-disasters-inequity-research-policies)
 
