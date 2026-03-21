@@ -88,6 +88,8 @@
 - [AI reveals insights into the flow of Antarctic ice](https://news.stanford.edu/stories/2025/03/antarctic-ice-flow-research-ai)
 - [Study reveals roadmap for carbon-free California by 2045](https://news.stanford.edu/stories/2025/09/carbon-free-california-net-zero-emissions-technologies-challenges)
 - [What corporate carbon reports get wrong – and how to fix it](https://news.stanford.edu/stories/2026/01/corporate-carbon-reports-supply-chain-emissions-research)
+- [Exploring renewable energy solutions with Taiwan and Stanford](https://news.stanford.edu/stories/2025/11/taiwan-net-zero-emissions-sustainable-energy-strategies)
+- [Stanford researchers tackle food insecurity in a warming world](https://news.stanford.edu/stories/2025/11/food-insecurity-climate-change-research)
 
 ### Videos and Podcasts
 
