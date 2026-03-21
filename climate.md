@@ -83,6 +83,11 @@
       https://archive.md/CFF59
     </details>
 - [Highlighting solutions to the wildfire crisis](https://news.stanford.edu/stories/2025/10/wildfire-crisis-threats-prevention-strategies-solutions-research)
+- [What’s at stake for the COP30 global climate summit](https://news.stanford.edu/stories/2025/11/cop30-global-climate-solutions-renewable-energy)
+- [EPA ‘endangerment finding’ explained in 5 key facts](https://news.stanford.edu/stories/2025/09/endangerment-finding-epa-science-facts)
+- [AI reveals insights into the flow of Antarctic ice](https://news.stanford.edu/stories/2025/03/antarctic-ice-flow-research-ai)
+- [Study reveals roadmap for carbon-free California by 2045](https://news.stanford.edu/stories/2025/09/carbon-free-california-net-zero-emissions-technologies-challenges)
+- [What corporate carbon reports get wrong – and how to fix it](https://news.stanford.edu/stories/2026/01/corporate-carbon-reports-supply-chain-emissions-research)
 
 ### Videos and Podcasts
 
