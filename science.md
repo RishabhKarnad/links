@@ -12,3 +12,4 @@
 - [The Optimization Ladder](https://cemrehancavdar.com/2026/03/10/optimization-ladder/)
 - [Hollywood Enters Oscars Weekend in Existential Crisis](https://www.theculturenewspaper.com/hollywood-enters-oscars-weekend-in-existential-crisis/)
 - [sinh(arccosh(x))](https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/)
+- [Why is social connection so hard for Gen Z?](https://news.stanford.edu/stories/2025/03/social-connections-gen-z-research-jamil-zaki)
