@@ -35,3 +35,4 @@
 - [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
 - [Why AI still struggles to tell fact from belief](https://news.stanford.edu/stories/2025/11/ai-language-models-facts-belief-human-understanding-research)
 - [Empowering users to discern fact from fiction in the age of AI](https://news.stanford.edu/stories/2026/01/ai-digital-literacy-interventions-misinformation-scams-research)
+- [AI-driven insurance decisions raise concerns about human oversight](https://news.stanford.edu/stories/2026/01/ai-algorithms-health-insurance-care-risks-research)
