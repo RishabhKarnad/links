@@ -91,6 +91,10 @@
 - [Exploring renewable energy solutions with Taiwan and Stanford](https://news.stanford.edu/stories/2025/11/taiwan-net-zero-emissions-sustainable-energy-strategies)
 - [Stanford researchers tackle food insecurity in a warming world](https://news.stanford.edu/stories/2025/11/food-insecurity-climate-change-research)
 - [Synthetic biologists transform waste CO2 into useful chemicals](https://news.stanford.edu/stories/2026/01/artificial-metabolism-waste-co2-chemicals-synthetic-biology-carbon-recycling)
+- [Research reveals keys to inspiring collective climate action](https://news.stanford.edu/stories/2026/01/study-collective-action-climate-psychological-interventions-research)
+- [Scientists break ‘decades of gridlock’ in climate modeling](https://news.stanford.edu/stories/2026/02/atmospheric-gravity-waves-climate-modeling)
+- [4 key facts about climate change and school meal programs](https://news.stanford.edu/stories/2026/02/4-key-facts-about-climate-change-and-school-meals)
+- [New metric reveals the true water footprint of corporations](https://news.stanford.edu/stories/2026/02/corporate-water-footprints-sustainability-index-investments)
 
 ### Videos and Podcasts
 
