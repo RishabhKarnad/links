@@ -36,3 +36,6 @@
 - [Why AI still struggles to tell fact from belief](https://news.stanford.edu/stories/2025/11/ai-language-models-facts-belief-human-understanding-research)
 - [Empowering users to discern fact from fiction in the age of AI](https://news.stanford.edu/stories/2026/01/ai-digital-literacy-interventions-misinformation-scams-research)
 - [AI-driven insurance decisions raise concerns about human oversight](https://news.stanford.edu/stories/2026/01/ai-algorithms-health-insurance-care-risks-research)
+- [New agentic AI platform accelerates advanced optics design](https://news.stanford.edu/stories/2025/12/agentic-ai-platform-metachat-advanced-optics-design-metasurfaces)
+- [Stanford AI experts predict what will happen in 2026](https://news.stanford.edu/stories/2025/12/stanford-ai-experts-predict-what-will-happen-in-2026)
+- [GenAI helps Stanford researchers better understand brain diseases](https://news.stanford.edu/stories/2025/10/generative-ai-brain-diseases-synthetic-mris)
