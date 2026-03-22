@@ -39,3 +39,7 @@
 - [New agentic AI platform accelerates advanced optics design](https://news.stanford.edu/stories/2025/12/agentic-ai-platform-metachat-advanced-optics-design-metasurfaces)
 - [Stanford AI experts predict what will happen in 2026](https://news.stanford.edu/stories/2025/12/stanford-ai-experts-predict-what-will-happen-in-2026)
 - [GenAI helps Stanford researchers better understand brain diseases](https://news.stanford.edu/stories/2025/10/generative-ai-brain-diseases-synthetic-mris)
+- [Five myths about AI and education](https://news.stanford.edu/stories/2026/03/myths-facts-ai-education-classroom-cheating-creativity-teachers)
+- [AI platform maps disease risk from space](https://news.stanford.edu/stories/2026/03/ai-platform-disease-mapping-schistosomiasis-research)
+- [AI+Education Summit addresses learning and equity](https://news.stanford.edu/stories/2026/02/ai-education-summit-learning-impacts-student-assessment)
+- [Satellite imagery and AI unveil hidden development needs](https://news.stanford.edu/stories/2026/02/satellite-imagery-ai-un-human-development-index)
