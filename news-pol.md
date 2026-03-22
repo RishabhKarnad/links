@@ -35,4 +35,5 @@
 - [AI rivals humans in political persuasion](https://news.stanford.edu/stories/2025/11/ai-generated-political-messages-persuasion-research)
 - [Democracy is a Liability](https://geohot.github.io//blog/jekyll/update/2026/03/21/democracy-liability.html)
 - [How natural disasters exacerbate inequity](https://news.stanford.edu/stories/2025/12/natural-disasters-inequity-research-policies)
-
+- [What a moonshot to end extreme poverty would cost](https://news.stanford.edu/stories/2026/02/costs-alleviate-extreme-poverty-interventions-research)
+- [What does it mean to be reasonable?](https://news.stanford.edu/stories/2026/03/krista-lawlor-being-reasonable-book-constructive-dialogue)
