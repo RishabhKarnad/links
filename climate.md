@@ -95,6 +95,11 @@
 - [Scientists break ‘decades of gridlock’ in climate modeling](https://news.stanford.edu/stories/2026/02/atmospheric-gravity-waves-climate-modeling)
 - [4 key facts about climate change and school meal programs](https://news.stanford.edu/stories/2026/02/4-key-facts-about-climate-change-and-school-meals)
 - [New metric reveals the true water footprint of corporations](https://news.stanford.edu/stories/2026/02/corporate-water-footprints-sustainability-index-investments)
+- [Students showcase bold solutions at Global Sustainability Challenge](https://news.stanford.edu/stories/2026/02/global-sustainability-challenge-energy-climate-solutions)
+- [Study highlights geothermal energy’s role in clean power shift](https://news.stanford.edu/stories/2026/01/geothermal-clean-renewable-energy-transition-study-research)
+- [Model reveals path to affordable urban water during droughts](https://news.stanford.edu/stories/2026/03/new-research-shows-path-affordable-water-fast-growing-cities)
+- [How climate change is fueling disease outbreaks](https://news.stanford.edu/stories/2026/03/climate-change-disease-outbreaks-dengue-fever-research)
+- [Researchers partner with Houston locals to tackle flood resilience](https://news.stanford.edu/stories/2026/03/researchers-houston-communities-flood-resilience)
 
 ### Videos and Podcasts
 
