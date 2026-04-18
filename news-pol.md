@@ -37,3 +37,5 @@
 - [How natural disasters exacerbate inequity](https://news.stanford.edu/stories/2025/12/natural-disasters-inequity-research-policies)
 - [What a moonshot to end extreme poverty would cost](https://news.stanford.edu/stories/2026/02/costs-alleviate-extreme-poverty-interventions-research)
 - [What does it mean to be reasonable?](https://news.stanford.edu/stories/2026/03/krista-lawlor-being-reasonable-book-constructive-dialogue)
+- [Amazon's Ring and Google's Nest Unwittingly Reveal the Severity of the U.S. Surveillance State](https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly)
+- [Amazon BUSTED for Widespread Scheme to Inflate Prices Across the Economy](https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price)
