@@ -112,6 +112,12 @@
 - [Solving methane mysteries with satellite imagery](https://blog.datadesk.eco/p/methane-mysteries)
 - [MIT engineers make converting CO2 into useful products more practical](https://news.mit.edu/2024/mit-engineers-make-converting-co2-into-products-more-practical-1113)
 - [What’s Causing the Recent Spike in Global Temperatures?](https://e360.yale.edu/features/gavin-schmidt-interview)
+- [Experiment will attempt to counter climate change by altering ocean](https://arstechnica.com/science/2025/08/experiment-will-attempt-to-counter-climate-change-by-altering-ocean/)
+- [Earth models can predict the planet’s future but not their own](https://arstechnica.com/science/2025/08/earth-models-can-predict-the-planets-future-but-not-their-own/)
+- [Antarctica is starting to look a lot like Greenland—and that isn’t good](https://arstechnica.com/science/2025/10/antarctica-is-starting-to-look-a-lot-like-greenland-and-that-isnt-good/)
+- [Big Tech may fall short of green energy targets due to proposed rule changes](https://arstechnica.com/tech-policy/2025/10/big-tech-may-fall-short-of-green-energy-targets-due-to-proposed-rule-changes/)
+- [Four thoughts from Bill Gates on climate tech](https://www.technologyreview.com/2025/10/30/1127056/four-thoughts-from-bill-gates-on-climate-tech/)
+- [This Data Scientist Sees Progress in the Climate Change Fight](https://e360.yale.edu/features/hannah-ritchie-interview)
 
 ### Videos and Podcasts
 
