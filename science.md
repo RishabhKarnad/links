@@ -14,3 +14,10 @@
 - [sinh(arccosh(x))](https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/)
 - [Why is social connection so hard for Gen Z?](https://news.stanford.edu/stories/2025/03/social-connections-gen-z-research-jamil-zaki)
 - [Nuclear Fusion’s New Idea: An Off-the-Shelf Stellarator](https://spectrum.ieee.org/the-off-the-shelf-stellarator)
+- [A primer on molecular dynamics](https://www.owlposting.com/p/a-primer-on-molecular-dynamics)
+- [Improve your social skills](https://www.improveyoursocialskills.com/basic-social-skills-guide)
+- [How close are we to solid state batteries for electric vehicles?](https://arstechnica.com/cars/2025/10/how-close-are-we-to-solid-state-batteries-for-electric-vehicles/)
+
+### Resources
+
+- [Structure and Interpretation of Classical Mechanics](https://tgvaughan.github.io/sicm/toc.html)
