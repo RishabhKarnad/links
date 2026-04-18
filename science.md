@@ -17,6 +17,7 @@
 - [A primer on molecular dynamics](https://www.owlposting.com/p/a-primer-on-molecular-dynamics)
 - [Improve your social skills](https://www.improveyoursocialskills.com/basic-social-skills-guide)
 - [How close are we to solid state batteries for electric vehicles?](https://arstechnica.com/cars/2025/10/how-close-are-we-to-solid-state-batteries-for-electric-vehicles/)
+- [Weighting an average to minimize variance](https://www.johndcook.com/blog/2025/11/12/minimum-variance/)
 
 ### Resources
 
