@@ -44,3 +44,4 @@
 - [AI+Education Summit addresses learning and equity](https://news.stanford.edu/stories/2026/02/ai-education-summit-learning-impacts-student-assessment)
 - [Satellite imagery and AI unveil hidden development needs](https://news.stanford.edu/stories/2026/02/satellite-imagery-ai-un-human-development-index)
 - [Inside the AI Index: 12 Takeaways from the 2026 Report](https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report)
+- [AI method radically speeds predictions of materials’ thermal properties](https://news.mit.edu/2024/ai-method-radically-speeds-predictions-materials-thermal-properties-0716)
