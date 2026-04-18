@@ -100,6 +100,12 @@
 - [Model reveals path to affordable urban water during droughts](https://news.stanford.edu/stories/2026/03/new-research-shows-path-affordable-water-fast-growing-cities)
 - [How climate change is fueling disease outbreaks](https://news.stanford.edu/stories/2026/03/climate-change-disease-outbreaks-dengue-fever-research)
 - [Researchers partner with Houston locals to tackle flood resilience](https://news.stanford.edu/stories/2026/03/researchers-houston-communities-flood-resilience)
+- [Past greenhouse gas emissions will cost global economy trillions](https://news.stanford.edu/stories/2026/03/study-links-past-emissions-trillions-future-economic-damages)
+- [Study reveals striking carbon advantage in old-growth forests](https://news.stanford.edu/stories/2026/03/carbon-old-growth-managed-forests-climate-change-research)
+- [Drones and AI take flight to combat mosquito-borne disease](https://news.stanford.edu/stories/2026/04/mosquito-borne-disease-breeding-sites-drones-ai)
+- [Sustaining Life: Before the tipping point](https://momentum.stanford.edu/stories/before-the-tipping-point)
+- [Stanford team cuts cement emissions by two-thirds](https://news.stanford.edu/stories/2026/04/sustainable-cement-carbon-emissions-phlego)
+- [Stanford fuels solutions for a power-hungry world](https://news.stanford.edu/stories/2026/04/energy-innovation-clean-power-research)
 
 ### Videos and Podcasts
 
