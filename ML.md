@@ -17,6 +17,8 @@
 - Posts by Nvidia
   - [Mastering LLM Techniques: Training](https://developer.nvidia.com/blog/mastering-llm-techniques-training/)
   - [Mastering LLM Techniques: Inference Optimization](https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/)
+- [Machine Learning in Production (CMU)](https://mlip-cmu.github.io/s2026/)
+- [Modern Optimizers](https://notes.kvfrans.com/7-misc/modern-optimizers.html)
 
 ### Articles
 
@@ -45,3 +47,8 @@
 - [Satellite imagery and AI unveil hidden development needs](https://news.stanford.edu/stories/2026/02/satellite-imagery-ai-un-human-development-index)
 - [Inside the AI Index: 12 Takeaways from the 2026 Report](https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report)
 - [AI method radically speeds predictions of materials’ thermal properties](https://news.mit.edu/2024/ai-method-radically-speeds-predictions-materials-thermal-properties-0716)
+- [AI industry insiders launch site to poison the data that feeds them](https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/)
+- [Counterfactual Evaluation for Recommendation Systems](https://eugeneyan.com/writing/counterfactual-evaluation/)
+- [News publishers limit Internet Archive access due to AI scraping concerns](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+- [BERT is just a Single Text Diffusion Step](https://nathan.rs/posts/roberta-diffusion/)
+- [“Like putting on glasses for the first time”—how AI improves earthquake detection](https://arstechnica.com/science/2025/10/like-putting-on-glasses-for-the-first-time-how-ai-improves-earthquake-detection/)
