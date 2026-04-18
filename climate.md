@@ -17,6 +17,8 @@
 - [En-ROADS](https://bc3.mit.edu/demos/en-roads/)
 - [REMix](https://helmholtz.software/software/remix)
 - [venco.py](https://helmholtz.software/software/vencopy)
+- [Climate Science, Risk & Solutions](https://climateprimer.mit.edu/)
+- [Sustainable Real Estate](https://ocw.mit.edu/courses/11-350-sustainable-real-estate-spring-2023/)
 
 ### Articles
 
@@ -106,6 +108,10 @@
 - [Sustaining Life: Before the tipping point](https://momentum.stanford.edu/stories/before-the-tipping-point)
 - [Stanford team cuts cement emissions by two-thirds](https://news.stanford.edu/stories/2026/04/sustainable-cement-carbon-emissions-phlego)
 - [Stanford fuels solutions for a power-hungry world](https://news.stanford.edu/stories/2026/04/energy-innovation-clean-power-research)
+- [Science-based targets miss the mark](https://www.nature.com/articles/s43247-024-01535-z)
+- [Solving methane mysteries with satellite imagery](https://blog.datadesk.eco/p/methane-mysteries)
+- [MIT engineers make converting CO2 into useful products more practical](https://news.mit.edu/2024/mit-engineers-make-converting-co2-into-products-more-practical-1113)
+- [What’s Causing the Recent Spike in Global Temperatures?](https://e360.yale.edu/features/gavin-schmidt-interview)
 
 ### Videos and Podcasts
 
