@@ -19,6 +19,8 @@
   - [Mastering LLM Techniques: Inference Optimization](https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/)
 - [Machine Learning in Production (CMU)](https://mlip-cmu.github.io/s2026/)
 - [Modern Optimizers](https://notes.kvfrans.com/7-misc/modern-optimizers.html)
+- [Stanford CS236: Deep Generative Models I 2023 I Stefano Ermon](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
+- [Probabilistic Machine Learning -- Philipp Hennig, 2023](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx)
 
 ### Articles
 
