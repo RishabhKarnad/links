@@ -18,6 +18,7 @@
 - [Improve your social skills](https://www.improveyoursocialskills.com/basic-social-skills-guide)
 - [How close are we to solid state batteries for electric vehicles?](https://arstechnica.com/cars/2025/10/how-close-are-we-to-solid-state-batteries-for-electric-vehicles/)
 - [Weighting an average to minimize variance](https://www.johndcook.com/blog/2025/11/12/minimum-variance/)
+- [What Functional Programmers Get Wrong About Systems](https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/)
 
 ### Resources
 
