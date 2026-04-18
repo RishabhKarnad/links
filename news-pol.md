@@ -39,3 +39,6 @@
 - [What does it mean to be reasonable?](https://news.stanford.edu/stories/2026/03/krista-lawlor-being-reasonable-book-constructive-dialogue)
 - [Amazon's Ring and Google's Nest Unwittingly Reveal the Severity of the U.S. Surveillance State](https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly)
 - [Amazon BUSTED for Widespread Scheme to Inflate Prices Across the Economy](https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price)
+- [Yes, everything online sucks now—but it doesn’t have to](https://arstechnica.com/gadgets/2025/10/yes-everything-online-sucks-now-but-it-doesnt-have-to/)
+- [It Kind of Seems Like Peter Thiel Is Losing It](https://futurism.com/future-society/peter-thiel-antichrist-lectures)
+- [Big Tech basically took Trump’s unpredictable trade war lying down](https://arstechnica.com/tech-policy/2025/12/big-tech-basically-took-trumps-unpredictable-trade-war-lying-down/)
