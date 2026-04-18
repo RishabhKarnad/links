@@ -43,3 +43,4 @@
 - [AI platform maps disease risk from space](https://news.stanford.edu/stories/2026/03/ai-platform-disease-mapping-schistosomiasis-research)
 - [AI+Education Summit addresses learning and equity](https://news.stanford.edu/stories/2026/02/ai-education-summit-learning-impacts-student-assessment)
 - [Satellite imagery and AI unveil hidden development needs](https://news.stanford.edu/stories/2026/02/satellite-imagery-ai-un-human-development-index)
+- [Inside the AI Index: 12 Takeaways from the 2026 Report](https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report)
