@@ -119,6 +119,7 @@
 - [Four thoughts from Bill Gates on climate tech](https://www.technologyreview.com/2025/10/30/1127056/four-thoughts-from-bill-gates-on-climate-tech/)
 - [This Data Scientist Sees Progress in the Climate Change Fight](https://e360.yale.edu/features/hannah-ritchie-interview)
 - [The El Niño cometh](https://www.theclimatebrink.com/p/the-el-nino-cometh)
+- [New rules change how La Niña and El Niño are classified. Here’s what that means](https://www.sfchronicle.com/weather/article/el-nino-la-nina-noaa-21316733.php)
 
 ### Videos and Podcasts
 
