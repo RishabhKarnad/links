@@ -118,6 +118,7 @@
 - [Big Tech may fall short of green energy targets due to proposed rule changes](https://arstechnica.com/tech-policy/2025/10/big-tech-may-fall-short-of-green-energy-targets-due-to-proposed-rule-changes/)
 - [Four thoughts from Bill Gates on climate tech](https://www.technologyreview.com/2025/10/30/1127056/four-thoughts-from-bill-gates-on-climate-tech/)
 - [This Data Scientist Sees Progress in the Climate Change Fight](https://e360.yale.edu/features/hannah-ritchie-interview)
+- [The El Niño cometh](https://www.theclimatebrink.com/p/the-el-nino-cometh)
 
 ### Videos and Podcasts
 
