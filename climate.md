@@ -120,6 +120,8 @@
 - [This Data Scientist Sees Progress in the Climate Change Fight](https://e360.yale.edu/features/hannah-ritchie-interview)
 - [The El Niño cometh](https://www.theclimatebrink.com/p/the-el-nino-cometh)
 - [New rules change how La Niña and El Niño are classified. Here’s what that means](https://www.sfchronicle.com/weather/article/el-nino-la-nina-noaa-21316733.php)
+- [Engineering the overlooked](https://momentum.stanford.edu/stories/engineering-the-overlooked)
+- [To Restore an Island Paradise, Add Fungi](https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi)
 
 ### Videos and Podcasts
 
