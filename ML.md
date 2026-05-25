@@ -54,3 +54,4 @@
 - [News publishers limit Internet Archive access due to AI scraping concerns](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 - [BERT is just a Single Text Diffusion Step](https://nathan.rs/posts/roberta-diffusion/)
 - [“Like putting on glasses for the first time”—how AI improves earthquake detection](https://arstechnica.com/science/2025/10/like-putting-on-glasses-for-the-first-time-how-ai-improves-earthquake-detection/)
+- [AI's Economics Don't Make Sense](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
