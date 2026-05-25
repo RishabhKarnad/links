@@ -55,3 +55,7 @@
 - [BERT is just a Single Text Diffusion Step](https://nathan.rs/posts/roberta-diffusion/)
 - [“Like putting on glasses for the first time”—how AI improves earthquake detection](https://arstechnica.com/science/2025/10/like-putting-on-glasses-for-the-first-time-how-ai-improves-earthquake-detection/)
 - [AI's Economics Don't Make Sense](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
+
+### Hackathons and Challenges
+
+- [Detecting Energy Flexibility in Buildings](https://www.aicrowd.com/challenges/flextrack-challenge-2025)
