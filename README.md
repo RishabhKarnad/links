@@ -15,6 +15,7 @@ A repository of links (and text of interesting comments on the internet) that I 
 - [Nuclear Fusion’s New Idea: An Off-the-Shelf Stellarator](https://spectrum.ieee.org/the-off-the-shelf-stellarator)
 - [AI platform maps disease risk from space](https://news.stanford.edu/stories/2026/03/ai-platform-disease-mapping-schistosomiasis-research)
 - [Empowering users to discern fact from fiction in the age of AI](https://news.stanford.edu/stories/2026/01/ai-digital-literacy-interventions-misinformation-scams-research)
+- [What Functional Programmers Get Wrong About Systems](https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/)
 - [Satellite imagery and AI unveil hidden development needs](https://news.stanford.edu/stories/2026/02/satellite-imagery-ai-un-human-development-index)
 - [Why Is Transgender Identity on the Rise Among Teens?](https://www.psychologytoday.com/us/blog/culture-mind-and-brain/201811/why-is-transgender-identity-the-rise-among-teens)
 - [‘Everything you’ve been told is a lie!’ Inside the wellness-to-fascism pipeline](https://www.theguardian.com/lifeandstyle/2023/aug/02/everything-youve-been-told-is-a-lie-inside-the-wellness-to-facism-pipeline)
