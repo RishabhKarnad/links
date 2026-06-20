@@ -45,3 +45,8 @@ A repository of links (and text of interesting comments on the internet) that I 
 ## Hackathons and Challenges
 
 - [Detecting Energy Flexibility in Buildings](https://www.aicrowd.com/challenges/flextrack-challenge-2025)
+
+## Nature
+
+- [Surviving in a poisoned land: Chernobyl's wildlife is different, but not in the ways you might think](https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on)
+- [Birds](https://www.bbc.com/news/in-pictures-66706149)
