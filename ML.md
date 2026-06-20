@@ -2,25 +2,13 @@
 
 ### Resources
 
-- [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
-- [Causal Inference: The Mixtape](https://mixtape.scunning.com/)
-- [Neural Process family](https://yanndubs.github.io/Neural-Process-Family/text/Intro.html)
-- [Bayesian Learning and Neural Networks](https://phuijse.github.io/BLNNbook/README.html)
 - [Bayesian learning papers](http://www2.stat.duke.edu/~berger/papers.html)
-- [Diffusion models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 - Transformers
   - https://peterbloem.nl/blog/transformers
   - https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
   - https://jalammar.github.io/illustrated-transformer/
   - https://iaml-it.github.io/posts/2021-04-28-transformers-in-vision/
   - https://mlvu.github.io/lecture07/
-- Posts by Nvidia
-  - [Mastering LLM Techniques: Training](https://developer.nvidia.com/blog/mastering-llm-techniques-training/)
-  - [Mastering LLM Techniques: Inference Optimization](https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/)
-- [Machine Learning in Production (CMU)](https://mlip-cmu.github.io/s2026/)
-- [Modern Optimizers](https://notes.kvfrans.com/7-misc/modern-optimizers.html)
-- [Stanford CS236: Deep Generative Models I 2023 I Stefano Ermon](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
-- [Probabilistic Machine Learning -- Philipp Hennig, 2023](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx)
 
 ### Articles
 
@@ -55,7 +43,3 @@
 - [BERT is just a Single Text Diffusion Step](https://nathan.rs/posts/roberta-diffusion/)
 - [“Like putting on glasses for the first time”—how AI improves earthquake detection](https://arstechnica.com/science/2025/10/like-putting-on-glasses-for-the-first-time-how-ai-improves-earthquake-detection/)
 - [AI's Economics Don't Make Sense](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
-
-### Hackathons and Challenges
-
-- [Detecting Energy Flexibility in Buildings](https://www.aicrowd.com/challenges/flextrack-challenge-2025)
