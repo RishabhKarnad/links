@@ -43,9 +43,9 @@
 - [Machine Learning in Production (CMU)](https://mlip-cmu.github.io/s2026/)
 - [Stanford CS236: Deep Generative Models I 2023 I Stefano Ermon](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
 - [Probabilistic Machine Learning -- Philipp Hennig, 2023](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx)
-- [CS 598: Deep Generative and Dynamical Models](https://arindam.cs.illinois.edu/courses/f21cs598/)
-- [CS 598: Sequential Decision Making](https://arindam.cs.illinois.edu/courses/f25cs598/)
-- [CS 598: GeoSpatial Artificial Intelligence](https://arindam.cs.illinois.edu/courses/s26cs598/)
+- [Deep Generative and Dynamical Models (Arindam Banerjee)](https://arindam.cs.illinois.edu/courses/f21cs598/)
+- [Sequential Decision Making (Arindam Banerjee)](https://arindam.cs.illinois.edu/courses/f25cs598/)
+- [GeoSpatial Artificial Intelligence (Arindam Banerjee)](https://arindam.cs.illinois.edu/courses/s26cs598/)
 
 ## Guides and Tutorials
 
