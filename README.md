@@ -17,3 +17,28 @@ A repository of links (and text of interesting comments on the internet) that I 
 - [GatesNotes](https://www.gatesnotes.com/)
 - [DownToEarth](https://www.downtoearth.org.in/)
 - [The Climate Brink](https://www.theclimatebrink.com/archive?sort=new)
+
+## Books
+
+- [Causal Inference: The Mixtape](https://mixtape.scunning.com/)
+- [Bayesian Learning and Neural Networks](https://phuijse.github.io/BLNNbook/README.html)
+- [Modern Optimizers](https://notes.kvfrans.com/7-misc/modern-optimizers.html)
+- [Structure and Interpretation of Classical Mechanics](https://tgvaughan.github.io/sicm/toc.html)
+
+## Courses
+
+- [Machine Learning in Production (CMU)](https://mlip-cmu.github.io/s2026/)
+- [Stanford CS236: Deep Generative Models I 2023 I Stefano Ermon](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
+- [Probabilistic Machine Learning -- Philipp Hennig, 2023](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx)
+
+## Guides and Tutorials
+
+- [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
+- [Neural Process family](https://yanndubs.github.io/Neural-Process-Family/text/Intro.html)
+- [Diffusion models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
+- [Mastering LLM Techniques: Training](https://developer.nvidia.com/blog/mastering-llm-techniques-training/)
+- [Mastering LLM Techniques: Inference Optimization](https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/)
+
+## Hackathons and Challenges
+
+- [Detecting Energy Flexibility in Buildings](https://www.aicrowd.com/challenges/flextrack-challenge-2025)
