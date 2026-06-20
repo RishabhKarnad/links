@@ -13,6 +13,9 @@ A repository of links (and text of interesting comments on the internet) that I 
 ## Articles
 
 - [Nuclear Fusion’s New Idea: An Off-the-Shelf Stellarator](https://spectrum.ieee.org/the-off-the-shelf-stellarator)
+- [AI platform maps disease risk from space](https://news.stanford.edu/stories/2026/03/ai-platform-disease-mapping-schistosomiasis-research)
+- [Empowering users to discern fact from fiction in the age of AI](https://news.stanford.edu/stories/2026/01/ai-digital-literacy-interventions-misinformation-scams-research)
+- [Satellite imagery and AI unveil hidden development needs](https://news.stanford.edu/stories/2026/02/satellite-imagery-ai-un-human-development-index)
 - [Why Is Transgender Identity on the Rise Among Teens?](https://www.psychologytoday.com/us/blog/culture-mind-and-brain/201811/why-is-transgender-identity-the-rise-among-teens)
 - [‘Everything you’ve been told is a lie!’ Inside the wellness-to-fascism pipeline](https://www.theguardian.com/lifeandstyle/2023/aug/02/everything-youve-been-told-is-a-lie-inside-the-wellness-to-facism-pipeline)
 - [The Cruel Fantasies of Well-Fed People](https://www.monbiot.com/2023/10/04/the-cruel-fantasies-of-well-fed-people/)
@@ -24,6 +27,8 @@ A repository of links (and text of interesting comments on the internet) that I 
 - [Yes, everything online sucks now—but it doesn’t have to](https://arstechnica.com/gadgets/2025/10/yes-everything-online-sucks-now-but-it-doesnt-have-to/)
 - [It Kind of Seems Like Peter Thiel Is Losing It](https://futurism.com/future-society/peter-thiel-antichrist-lectures)
 - [Big Tech basically took Trump’s unpredictable trade war lying down](https://arstechnica.com/tech-policy/2025/12/big-tech-basically-took-trumps-unpredictable-trade-war-lying-down/)
+- [AI's Economics Don't Make Sense](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
+- [How Rogue AIs may Arise](https://yoshuabengio.org/en/blog/how-rogue-ais-may-arise)
 
 ## Newsletters
 
@@ -51,6 +56,8 @@ A repository of links (and text of interesting comments on the internet) that I 
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 - [Neural Process family](https://yanndubs.github.io/Neural-Process-Family/text/Intro.html)
 - [Diffusion models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
+- [BERT is just a Single Text Diffusion Step](https://nathan.rs/posts/roberta-diffusion/)
+- [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
 - [Mastering LLM Techniques: Training](https://developer.nvidia.com/blog/mastering-llm-techniques-training/)
 - [Mastering LLM Techniques: Inference Optimization](https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/)
 - [Transformers from scratch](https://peterbloem.nl/blog/transformers)
