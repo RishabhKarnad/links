@@ -14,6 +14,16 @@ A repository of links (and text of interesting comments on the internet) that I 
 
 - [Nuclear Fusion’s New Idea: An Off-the-Shelf Stellarator](https://spectrum.ieee.org/the-off-the-shelf-stellarator)
 - [Why Is Transgender Identity on the Rise Among Teens?](https://www.psychologytoday.com/us/blog/culture-mind-and-brain/201811/why-is-transgender-identity-the-rise-among-teens)
+- [‘Everything you’ve been told is a lie!’ Inside the wellness-to-fascism pipeline](https://www.theguardian.com/lifeandstyle/2023/aug/02/everything-youve-been-told-is-a-lie-inside-the-wellness-to-facism-pipeline)
+- [The Cruel Fantasies of Well-Fed People](https://www.monbiot.com/2023/10/04/the-cruel-fantasies-of-well-fed-people/)
+- [Election Grief Is Real. Here’s How to Cope](https://www.scientificamerican.com/article/election-grief-is-real-heres-how-to-cope/)
+- [Democracy is a Liability](https://geohot.github.io//blog/jekyll/update/2026/03/21/democracy-liability.html)
+- [What a moonshot to end extreme poverty would cost](https://news.stanford.edu/stories/2026/02/costs-alleviate-extreme-poverty-interventions-research)
+- [Amazon's Ring and Google's Nest Unwittingly Reveal the Severity of the U.S. Surveillance State](https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly)
+- [Amazon BUSTED for Widespread Scheme to Inflate Prices Across the Economy](https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price)
+- [Yes, everything online sucks now—but it doesn’t have to](https://arstechnica.com/gadgets/2025/10/yes-everything-online-sucks-now-but-it-doesnt-have-to/)
+- [It Kind of Seems Like Peter Thiel Is Losing It](https://futurism.com/future-society/peter-thiel-antichrist-lectures)
+- [Big Tech basically took Trump’s unpredictable trade war lying down](https://arstechnica.com/tech-policy/2025/12/big-tech-basically-took-trumps-unpredictable-trade-war-lying-down/)
 
 ## Newsletters
 
