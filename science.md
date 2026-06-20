@@ -20,7 +20,3 @@
 - [Weighting an average to minimize variance](https://www.johndcook.com/blog/2025/11/12/minimum-variance/)
 - [What Functional Programmers Get Wrong About Systems](https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/)
 - [Surviving in a poisoned land: Chernobyl's wildlife is different, but not in the ways you might think](https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on)
-
-### Resources
-
-- [Structure and Interpretation of Classical Mechanics](https://tgvaughan.github.io/sicm/toc.html)
