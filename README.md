@@ -38,6 +38,9 @@ A repository of links (and text of interesting comments on the internet) that I 
 - [Diffusion models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 - [Mastering LLM Techniques: Training](https://developer.nvidia.com/blog/mastering-llm-techniques-training/)
 - [Mastering LLM Techniques: Inference Optimization](https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/)
+- [Engineering Management Checklist](https://github.com/pnewman1/eng-mgmt/blob/main/engineering-mgmt-checklist.txt)
+- [A Primer on Molecular Dynamics](https://www.owlposting.com/p/a-primer-on-molecular-dynamics)
+- [Improve your Social Skills](https://www.improveyoursocialskills.com/basic-social-skills-guide)
 
 ## Hackathons and Challenges
 
