@@ -10,6 +10,11 @@ A repository of links (and text of interesting comments on the internet) that I 
 - [News and Politics](./news-pol.md)
 - [ADHD](./adhd.md)
 
+## Articles
+
+- [Nuclear Fusion’s New Idea: An Off-the-Shelf Stellarator](https://spectrum.ieee.org/the-off-the-shelf-stellarator)
+- [Why Is Transgender Identity on the Rise Among Teens?](https://www.psychologytoday.com/us/blog/culture-mind-and-brain/201811/why-is-transgender-identity-the-rise-among-teens)
+
 ## Newsletters
 
 - [The Batch](https://www.deeplearning.ai/the-batch/)
