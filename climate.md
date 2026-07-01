@@ -19,6 +19,7 @@
 - [venco.py](https://helmholtz.software/software/vencopy)
 - [Climate Science, Risk & Solutions](https://climateprimer.mit.edu/)
 - [Sustainable Real Estate](https://ocw.mit.edu/courses/11-350-sustainable-real-estate-spring-2023/)
+- [Climate Solve AI](https://climatesolveai.netlify.app/)
 
 ### Articles
 
